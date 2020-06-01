@@ -14,3 +14,5 @@ sentiments regarding coronavirus, the economy, and the President's response.
 - [LinkedIn](https://www.linkedin.com/in/angela-s-758a0044/)
 
 
+
+
