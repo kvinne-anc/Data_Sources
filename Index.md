@@ -10,7 +10,7 @@ To practice creating data visualizations with Pytho, I recreated a plot from a 5
 sentiments regarding coronavirus, the economy, and the President's response. 
 
 ### Contact 
--[Email](mailto:angela-sisson@lambdastudents.com)
--[LinkedIn](https://www.linkedin.com/in/angela-s-758a0044/)
+- [Email](mailto:angela-sisson@lambdastudents.com)
+- [LinkedIn](https://www.linkedin.com/in/angela-s-758a0044/)
 
 
